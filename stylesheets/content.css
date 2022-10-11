@@ -122,14 +122,16 @@ body {
 }
 
 .textforsbor {
+  display: block;
   position: relative;
   margin: 36vw 0vw 0vw 12vw;
   width: 33.958vw;
 }
 
 .name {
+  display: block;
   position: relative;
-  margin: 10vw 0vw 0 22vw;
+  margin: -12.6vw 0vw 0 62vw;
   width: 20vw;
   font-family: "TT Fors Trial", serif;
   font-weight: 500;
@@ -140,21 +142,34 @@ body {
 }
 
 .mail {
+  display: block;
   position: relative;
-  margin: 2vw 0vw 0vw 22vw;
+  margin: 2vw 0vw 0vw 62vw;
   width: 20vw;
   font-family: "TT Fors Trial", serif;
   font-weight: 500;
   font-size: 1.823vw;
   color: #ff5400;
   border: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"] {
+  outline: none;
   border-bottom: 0.156vw solid;
+  background: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
 }
 
 button {
+  display: block;
   position: relative;
-  margin: 0vw 0vw 0vw 0vw;
-  width: 11vw;
+  margin: 2vw 0vw 0vw 80vw;
+  width: 14vw;
   font-family: "TT Fors Trial", serif;
   font-weight: 500;
   font-size: 1.823vw;
