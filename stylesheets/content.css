@@ -115,3 +115,9 @@ body {
   font-size: 1.042vw;
   line-height: 1.458vw;
 }
+
+.aboutservice {
+  position: relative;
+  margin: 50% 50%;
+  width: 21.615vw;
+}
