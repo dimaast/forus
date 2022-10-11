@@ -7,7 +7,6 @@ body {
   color: #ff5400;
   font-size: 1.823vw;
   line-height: 2.5vw;
-  font-weight: 400;
   overflow-x: hidden;
 }
 
@@ -124,6 +123,42 @@ body {
 
 .textforsbor {
   position: relative;
-  margin: 0vw 0vw 0vw 0vw;
+  margin: 36vw 0vw 26vw 12vw;
   width: 33.958vw;
+}
+
+.name {
+  position: relative;
+  margin: 10vw 0vw 26vw 22vw;
+  width: 20vw;
+  font-family: "TT Fors Trial", serif;
+  font-weight: 500;
+  font-size: 1.823vw;
+  color: #ff5400;
+  border: none;
+  border-bottom: 0.156vw solid;
+}
+
+.mail {
+  position: relative;
+  margin: 10vw 0vw 26vw 22vw;
+  width: 20vw;
+  font-family: "TT Fors Trial", serif;
+  font-weight: 500;
+  font-size: 1.823vw;
+  color: #ff5400;
+  border: none;
+  border-bottom: 0.156vw solid;
+}
+
+button {
+  position: relative;
+  margin: 0vw 0vw 0vw 0vw;
+  width: 10vw;
+  font-family: "TT Fors Trial", serif;
+  font-weight: 500;
+  font-size: 1.823vw;
+  color: #ff5400;
+  border: none;
+  background-color: #fff;
 }
