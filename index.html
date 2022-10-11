@@ -24,7 +24,13 @@
     <p class="aboutservice">[...] — сервис о том, как жить самостоятельно</p>
     <p class="textforsbor">если вам интересен наш проект, пожалуйста, оставьте свои контакты.<br><br>обещаем, мы не потревожим вас по пустякам!</p>
     <input class="name" type="text" name="" onfocus="this.value=''" value="имя">
-    <input class="mail" type="text" name="" onfocus="this.value=''" value="электронный ящик">
+    <form action="https://formspree.io/f/mgeqzyyl" method="POST">
+      <label>
+        <input class="mail" type="email" name="email" onfocus="this.value=''" value="электронный ящик">
+      </label>
+      <label>
+      <button type="submit">Send</button>
+    </form>
     <button type="button" name="button">отправить <img src="img/sendicon.svg"/> </button>
   </body>
 </html>
