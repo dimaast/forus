@@ -1,26 +1,13 @@
 @font-face {
   font-family: "TT Fors Trial";
-  src: url("../fonts/TT Fors Trial Medium.ttf") format("ttf");
+  src: url("../fonts/TT Fors Trial Medium.ttf") format("truetype");
   font-style: normal;
   font-weight: 500;
 }
 
 @font-face {
-  font-family: "TT Fors Trial";
-  src: url("../fonts/TT Fors Trial Medium");
-  src: local("TT Fors Trial Medium"),
-		local("TT Fors Trial Medium"),
-		url("../fonts/TT Fors Trial Medium.ttf") format("ttf"),
-  font-style: medium;
-  font-weight: 500;
-}
-
-@font-face {
   font-family: "Aeonik Pro";
-  src: url("../fonts/Aeonik Pro Bold");
-  src: local("Aeonik Pro Bold"),
-		local("Aeonik Pro Bold"),
-		url("../fonts/Aeonik Pro Bold.otf") format("otf"),
-  font-style: bold;
+  src: url("../fonts/Aeonik Pro Bold.otf") format("truetype");
+  font-style: normal;
   font-weight: 700;
 }
