@@ -13,7 +13,7 @@
   src: url("../fonts/Aeonik Pro Bold");
   src: local("Aeonik Pro Bold"),
 		local("Aeonik Pro Bold"),
-		url("../fonts/Aeonik Pro Bold.ttf") format("ttf"),
+		url("../fonts/Aeonik Pro Bold.otf") format("otf"),
   font-style: bold;
   font-weight: 700;
 }
