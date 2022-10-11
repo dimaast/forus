@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: "Aeonik Pro";
-  src: url("../fonts/Aeonik Pro Bold.otf") format("truetype");
+  src: url("../fonts/Aeonik Pro Medium.otf") format("truetype");
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
 }
