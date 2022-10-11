@@ -1,0 +1,108 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "TT Fors Educational", serif;
+  background-color: #ffffff;
+  background: url("../img/fon.svg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: #FF5400;
+  font-size: 2.083vw;
+  line-height: 2.5vw;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
+.shape1_man {
+  position: relative;
+  display: ;
+  margin: 23.8vw 0vw 0vw 35vw;
+  width: 24.323vw;
+  height: 18.438vw;
+  background: url("../img/shape1_man.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.shape2_stirka {
+  position: relative;
+  display: ;
+  margin: -15vw 0vw 0vw 23.35vw;
+  width: 10.365vw;
+  height: 14.167vw;
+  background: url("../img/shape2_stirka.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.shape3_pilesos {
+  position: relative;
+  display: ;
+  margin: -10.4vw 0vw 0vw 54.4vw;
+  width: 17.135vw;
+  height: 18.021vw;
+  background: url("../img/shape3_pilesos.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.shape4_holod {
+  position: relative;
+  display: ;
+  margin: -34.6vw 0vw 0vw 10vw;
+  width: 14.583vw;
+  height: 28.750vw;
+  background: url("../img/shape4_holod.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.shape5_batareya {
+  position: relative;
+  display: ;
+  margin: -7.5vw 0vw 0vw 26.75vw;
+  width: 14.063vw;
+  height: 8.698vw;
+  background: url("../img/shape5_batareya.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.shape6_plita {
+  position: relative;
+  display: ;
+  margin: -18.1vw 0vw 0vw 71vw;
+  width: 16.042vw;
+  height: 16.354vw;
+  background: url("../img/shape6_plita.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.shape7_okno {
+  position: relative;
+  display: ;
+  margin: -19.5vw 0vw 0vw 36.3vw;
+  width: 19.115vw;
+  height: 21.354vw;
+  background: url("../img/shape7_okno.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.shape8_shkaf {
+  position: relative;
+  display: ;
+  margin: -32.5vw 0vw 0vw 43.4vw;
+  width: 23.958vw;
+  height: 33.594vw;
+  background: url("../img/shape8_shkaf.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+/* 1.042vw 20px
+1.823vw 35px
+3.646vw 70px*/
