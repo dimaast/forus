@@ -1,13 +1,9 @@
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "TT Fors Educational", serif;
+  font-family: "TT Fors Trial", serif;
   background-color: #ffffff;
-  background: url("../img/fon.svg");
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  color: #FF5400;
+  color: #ff5400;
   font-size: 2.083vw;
   line-height: 2.5vw;
   font-weight: 400;
@@ -52,7 +48,7 @@ body {
   display: ;
   margin: -34.6vw 0vw 0vw 10vw;
   width: 14.583vw;
-  height: 28.750vw;
+  height: 28.75vw;
   background: url("../img/shape4_holod.png");
   background-position: center;
   background-repeat: no-repeat;
