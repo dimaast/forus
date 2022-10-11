@@ -10,10 +10,10 @@
 
 @font-face {
   font-family: "Aeonik Pro";
-  src: url("../fonts/Aeonik Pro Medium");
-  src: local("Aeonik Pro Medium"),
-		local("Aeonik Pro Medium"),
-		url("../fonts/Aeonik Pro Medium.ttf") format("ttf"),
-  font-style: normal;
-  font-weight: 500;
+  src: url("../fonts/Aeonik Pro Bold");
+  src: local("Aeonik Pro Bold"),
+		local("Aeonik Pro Bold"),
+		url("../fonts/Aeonik Pro Bold.ttf") format("ttf"),
+  font-style: bold;
+  font-weight: 700;
 }

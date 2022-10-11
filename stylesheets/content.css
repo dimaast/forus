@@ -2,9 +2,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "TT Fors Trial", serif;
+  font-weight: 500;
   background-color: #ffffff;
   color: #ff5400;
-  font-size: 2.083vw;
+  font-size: 1.823vw;
   line-height: 2.5vw;
   font-weight: 400;
   overflow-x: hidden;
@@ -99,6 +100,12 @@ body {
   background-size: 100% auto;
 }
 
-/* 1.042vw 20px
-1.823vw 35px
-3.646vw 70px*/
+.quoteblock {
+  font-family: "Aeonik Pro", serif;
+  font-weight: 700;
+  font-size: 3.646vw;
+}
+
+.whattodo {
+  font-size: 1.042vw;
+}
