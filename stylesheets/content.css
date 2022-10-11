@@ -129,7 +129,7 @@ body {
 
 .name {
   position: relative;
-  margin: 10vw 0vw 26vw 22vw;
+  margin: 10vw 0vw 0 22vw;
   width: 20vw;
   font-family: "TT Fors Trial", serif;
   font-weight: 500;
@@ -141,7 +141,7 @@ body {
 
 .mail {
   position: relative;
-  margin: 10vw 0vw 26vw 22vw;
+  margin: 2vw 0vw 0vw 22vw;
   width: 20vw;
   font-family: "TT Fors Trial", serif;
   font-weight: 500;
