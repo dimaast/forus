@@ -101,11 +101,14 @@ body {
 }
 
 .quoteblock {
+  margin: 0vw 0vw 0vw 0vw;
   font-family: "Aeonik Pro", serif;
   font-weight: 700;
   font-size: 3.646vw;
 }
 
 .whattodo {
+  margin: 0vw 0vw 0vw 0vw;
+  width: 14.375vw;
   font-size: 1.042vw;
 }
