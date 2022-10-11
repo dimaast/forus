@@ -101,7 +101,7 @@ body {
 }
 
 .quoteblock {
-  margin: 0vw 0vw 0vw 0vw;
+  margin: -30vw 0vw 0vw 27vw;
   font-family: "Aeonik Pro", serif;
   font-weight: 700;
   font-size: 3.646vw;
@@ -110,7 +110,7 @@ body {
 .whattodo {
   font-family: "TT Fors Trial", serif;
   font-weight: 500;
-  margin: 0vw 0vw 0vw 0vw;
+  margin: -1vw 0vw 0vw 27.3vw;
   width: 14.375vw;
   font-size: 1.042vw;
   line-height: 1.458vw;
